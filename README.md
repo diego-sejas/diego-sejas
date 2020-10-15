@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋, mi nombre es Diego</h1>
 <h3 align="center">Soy desarrollador junior ASP.NET C# MVC , SQLServer</h3>
 
-- 🔭 Actualmente trabajo como soporte de infractuctura [en sielcon](http://www.sielcon.com.ar)
+- 🔭 Actualmente trabajo como soporte de infractuctura en [sielcon](http://www.sielcon.com.ar)
 
-- 🌱 Estoy en constante capacitación **asp.net c# y java con Spring boot**
+- 🌱 Estoy en constante capacitación **ASP.NET C# y java con Spring boot**
 
 - ⚡ Soy Programador **junior** 
-Tengo conocimientos en C# , Java , base de datos MySQL , SQLServer. Actualmente estoy estudiando la lic.
+Tengo conocimientos en C# , Java , base de datos MySQL , SQLServer. Actualmente estoy estudiando lic.
 en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
 
 <p align="left">
