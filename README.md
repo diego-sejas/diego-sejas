@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Diego</h1>
-<h3 align="center">Soy desarrollador junior asp.net c· mvc y Java Spring boot</h3>
+<h3 align="center">Soy desarrollador junior ASP.NET C# MVC , SQLServer</h3>
 
 - 🔭 Actualmente trabajo como soporte de infractuctura [en sielcon](http://www.sielcon.com.ar)
 
