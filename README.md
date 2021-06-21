@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo como soporte de infractuctura en [sielcon](http://www.sielcon.com.ar)
 
-- 🌱 Estoy en constante capacitación **ASP.NET C# y java con Spring boot**
+- 🌱 Estoy en constante capacitación **ASP.NET C# y Java Spring boot**
 
 - ⚡ Soy Programador **junior** 
 Tengo conocimientos en C# , Java , base de datos MySQL , SQLServer. Actualmente estoy estudiando lic.
