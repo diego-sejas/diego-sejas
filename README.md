@@ -9,6 +9,8 @@
 Tengo conocimientos en C# , Java , base de datos MySQL , SQLServer. Actualmente estoy estudiando lic.
 en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
 
+- 🔭 [Diego Sejas](https://diego-sejas.github.io/PortfolioWeb)
+
 <p align="left">
 <h3 align="left">Redes Sociales:</h3>
 <a href="https://twitter.com/diegosejas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diegosejas" height="30" width="40" /></a>
