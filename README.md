@@ -23,6 +23,8 @@ en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diego-sejas&show_icons=true" alt="diego-sejas" /></p>
 
+<h1 align="center">Hola 👋, mi nombre es Diego</h1>
+<h3 align="center">Soy desarrollador junior ASP.NET C# MVC , SQLServer</h3>
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
