@@ -2,8 +2,8 @@
 <h4 align="center">Soy desarrollador junior ASP.NET C# MVC , SQLServer</h4>
 <p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/diegosejas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/diegosejas#2795" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
@@ -12,11 +12,10 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Un poco de Me:
 - 🏦 Actualmente trabajo como soporte de infractuctura en [Sielcon.com.ar](http://www.sielcon.com.ar) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Estoy en constante capacitación **ASP.NET C# y Java Spring boot**
+- 💻 Estoy en constante capacitación en programación **ASP.NET C# y Java Spring boot** y ultimamente el area de **Testing QA**
 - 📖 Me encuentro estudiando Lic. en sistema en la UNLa , tengo un terciario como Analista de sistemas informaticos.
-- 💬 
-- ⚡ Tengo conocimientos en C# , Java , base de datos MySQL , SQLServer. Actualmente estoy estudiando lic.
-      en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
+- ⚡ Tengo conocimientos en lenguajes Asp.net C# , Java con spring Boot , base de datos MySQL - Microsoft SQLServer.
+      Cuento con practicas de frontend en HTML , CCS , Boostrap y JavaScript.
 - 📝 Podes ver mi CV en linea [Diego Sejas CV](https://diego-sejas.github.io/PortfolioWeb/) 
 
 <p align="center">
