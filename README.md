@@ -52,7 +52,7 @@ en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" width="45" height="55"/>
 </p>
 
 ---
@@ -62,45 +62,10 @@ en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-🌆 Daytime    110 commits    ███████░░░░░░░░░░░░░░░░░░   29.97% 
-🌃 Evening    177 commits    ████████████░░░░░░░░░░░░░   48.23% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-Saturday     77 commits     █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Sunday       91 commits     ██████░░░░░░░░░░░░░░░░░░░   25.85%
-
-```
-
-
-**I Mostly Code in Python 💻** 
-
-```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-C++                      1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
-
-```
 
 
 
 <!--END_SECTION:waka-->
-
-⏳ **Year Progress** { █████████████████████████████▁ } 99.19 % as on ⏰ 28-Dec-2021
 
 ---
 
