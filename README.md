@@ -35,14 +35,14 @@ en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Development Engineer working for a Health Tech startup in India 
+- 🏦 Actualmente trabajo como soporte de infractuctura en [sielcon](http://www.sielcon.com.ar) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.java**, **.py**, **.js**, **.sql**
+- 💻 Estoy en constante capacitación **ASP.NET C# y Java Spring boot**
 - 📖 I am currently reading **The Psychology of Money** by Morgan Housel
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Tengo conocimientos en C# , Java , base de datos MySQL , SQLServer. Actualmente estoy estudiando lic.
+      en sistemas ,tengo practicas de frontend en HTML , CCS , Boostrap y JavaScript.
+- 📝 Podes ver mi CV en linea [Diego Sejas CV](https://apoorvtyagi.tech/) 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
