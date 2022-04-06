@@ -12,7 +12,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Un poco de Me:
 - 🏦 Actualmente trabajo como soporte de infractuctura en [Sielcon.com.ar](http://www.sielcon.com.ar) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Estoy en constante capacitación en programación **ASP.NET C# y Java Spring boot** y ultimamente el area de **Testing QA**
+- 💻 Estoy en constante capacitación en programación **Java Spring boot || Mysql || Sql Server** y ultimamente el area de **Testing QA**
 - 📖 Me encuentro estudiando Lic. en sistema en la [UNLa](http://www.unla.edu.ar/)  , tengo un terciario como Analista de sistemas informaticos.
 - ⚡ Tengo conocimientos en lenguajes Asp.net C# , Java con spring Boot , base de datos MySQL - Microsoft SQLServer.
       Cuento con practicas de frontend en HTML , CCS , Boostrap y JavaScript.
