@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Diego</h1>
-<h4 align="center">Soy desarrollador - Java || Spring Boot || MySQL</h4>
+<h4 align="center">Soy desarrollador - Java || Springboot || API Rest || MySQL || Est. Lic. Sistemas</h4>
 <h4 align="center">Qa Testing trainne</h4>
 <p align="center">
 <a href="https://twitter.com/diegosejas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
