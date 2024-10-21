@@ -9,9 +9,9 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Un poco de Me:
-- 🏦 Actualmente trabajo como soporte de infractuctura en [Sielcon.com.ar](http://www.sielcon.com.ar) 
+- 🏦 Actualmente trabajo como desarrollador Jr. en [Pena y Asoc.](http://www.pena.com.ar) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Estoy en constante capacitación en programación **Java Spring boot || Mysql || Sql Server** y ultimamente el area de **Testing QA**
+- 💻 Estoy en constante capacitación en programación **.Net Core Framework || Sql Server** y ultimamente el area de **Testing QA**
 - 📖 Me encuentro estudiando Lic. en sistema en la [UNLa](http://www.unla.edu.ar/)  , tengo un terciario como Analista de sistemas informaticos.
 - ⚡ Tengo conocimientos en lenguajes Asp.net C# , Java con spring Boot , base de datos MySQL - Microsoft SQLServer.
       Cuento con practicas de frontend en HTML , CCS , Boostrap y JavaScript.
